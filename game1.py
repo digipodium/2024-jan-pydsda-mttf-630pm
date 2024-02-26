@@ -1,3 +1,4 @@
+# pip install pgzero
 import pgzrun
 
 WIDTH = 800
